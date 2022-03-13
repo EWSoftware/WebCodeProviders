@@ -30,7 +30,7 @@
     </BuildLogFile>
     <FrameworkVersion>.NET Framework 4.7.2</FrameworkVersion>
     <HelpTitle>EWSoftware.CodeDom Namespace Documentation</HelpTitle>
-    <CopyrightHref>https://GitHub.com/EWSoftware/SHFB</CopyrightHref>
+    <CopyrightHref>https://GitHub.com/EWSoftware/WebCodeProviders</CopyrightHref>
     <CopyrightText>Copyright \xA9 2008-2022, Eric Woodruff, All rights reserved</CopyrightText>
     <FeedbackEMailAddress>Eric%40EWoodruff.us</FeedbackEMailAddress>
     <PresentationStyle>VS2013</PresentationStyle>
