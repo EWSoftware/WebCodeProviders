@@ -33,7 +33,7 @@
     <CopyrightHref>https://GitHub.com/EWSoftware/WebCodeProviders</CopyrightHref>
     <CopyrightText>Copyright \xA9 2008-2022, Eric Woodruff, All rights reserved</CopyrightText>
     <FeedbackEMailAddress>Eric%40EWoodruff.us</FeedbackEMailAddress>
-    <PresentationStyle>VS2013</PresentationStyle>
+    <PresentationStyle>Default2022</PresentationStyle>
     <HelpFileVersion>2022.3.12.0</HelpFileVersion>
     <ComponentConfigurations>
     </ComponentConfigurations>
@@ -65,6 +65,9 @@
     <SaveComponentCacheCapacity>0</SaveComponentCacheCapacity>
     <TransformComponentArguments>
       <Argument Key="RobotsMetadata" Value="" />
+      <Argument Key="BibliographyDataFile" Value="" />
+      <Argument Key="RootBreadcrumbTitleText" Value="Providers" />
+      <Argument Key="CollapsibleSections" Value="True" />
       <Argument Key="LogoFile" Value="" />
       <Argument Key="LogoHeight" Value="" />
       <Argument Key="LogoWidth" Value="" />
